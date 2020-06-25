@@ -1,5 +1,5 @@
 ## BoydWatterson
-Boyd Watterson Asse tManagmentProjects.
+Boyd Watterson Asset Managment Projects.
 
 This is the repo of work done for my internship at Boyd Waterson Asset Managment.
 
